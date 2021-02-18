@@ -2,6 +2,9 @@
 
 > A web app to score a baseball game, written in Vue
 
+[![CodeFactor](https://www.codefactor.io/repository/github/ravenclaw900/scorebook/badge)](https://www.codefactor.io/repository/github/ravenclaw900/scorebook)
+[![dependencies Status](https://status.david-dm.org/gh/ravenclaw900/scorebook.svg)](https://david-dm.org/ravenclaw900/scorebook)
+
 ## Project setup
 ```
 yarn install
