@@ -25,5 +25,7 @@ yarn build
 yarn lint
 ```
 
+This is based off of https://github.com/ravenclaw900/scorebook.py
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
