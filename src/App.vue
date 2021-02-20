@@ -4,7 +4,7 @@
 </template>
 
 <script>
-import ActionBar from "@/components/ActionBar";
+import ActionBar from "@/components/TheActionBar";
 import Main from "@/components/Main";
 
 export default {
