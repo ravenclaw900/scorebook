@@ -2,7 +2,15 @@
   "name": "scorebook",
   "version": "0.1.0",
   "private": true,
-  "description": "A web app to score a baseball game.",
+  "description": "A web app to score a baseball game",
+  "homepage": "https://github.com/ravenclaw900/scorebook#readme",
+  "bugs": "https://github.com/ravenclaw900/scorebook/issues",
+  "license" : "GPL-3.0",
+  "author": "ravenclaw900 <ravenclaw900@protonmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravenclaw900/scorebook.git"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
