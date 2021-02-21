@@ -8,6 +8,7 @@
     <ActionItem name="Triple" />
     <ActionItem name="Out" />
     <ActionItem name="Error" />
+    <ActionItem name="Foul" />
   </div>
 </template>
 

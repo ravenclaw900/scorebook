@@ -2,6 +2,7 @@
   "name": "scorebook",
   "version": "0.1.0",
   "private": true,
+  "description": "A web app to score a baseball game.",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
