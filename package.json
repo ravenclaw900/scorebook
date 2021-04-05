@@ -3,19 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "description": "A web app to score a baseball game",
-  "homepage": "https://github.com/ravenclaw900/scorebook#readme",
-  "bugs": "https://github.com/ravenclaw900/scorebook/issues",
-  "license" : "GPL-3.0",
-  "author": "ravenclaw900 <ravenclaw900@protonmail.com>",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ravenclaw900/scorebook.git"
-  },
+  "author": "ravenclaw900 <ravenclaw900+scorebookjs@protonmail.com>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "push-dir --dir=dist --branch=gh-pages --cleanup"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -41,5 +34,12 @@
     "push-dir": "^0.4.1",
     "sass-loader": "^10.1.1",
     "typescript": "~4.1.5"
+  },
+  "bugs": "https://github.com/ravenclaw900/scorebook/issues",
+  "homepage": "https://github.com/ravenclaw900/scorebook#readme",
+  "license": "GPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ravenclaw900/scorebook.git"
   }
 }

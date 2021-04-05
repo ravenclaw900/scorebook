@@ -5,12 +5,12 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/ravenclaw900/scorebook/badge)](https://www.codefactor.io/repository/github/ravenclaw900/scorebook)
 [![dependencies Status](https://status.david-dm.org/gh/ravenclaw900/scorebook.svg)](https://david-dm.org/ravenclaw900/scorebook)
 
-Built on [GitHub pages](https://ravenclaw900.github.io/scorebook)!
+Built stabily on [GitHub pages](https://ravenclaw900.github.io/scorebook)!
 Stay on the (possibly not working) bleeding edge with [Netlify](https://scorebook-baseball-vuejs.netlify.app).
 
 ## Project setup
 ```
-yarn install
+yarn
 ```
 
 ### Compiles and hot-reloads for development
