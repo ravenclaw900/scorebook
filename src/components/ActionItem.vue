@@ -29,8 +29,13 @@ export default defineComponent({
   text-align: center;
   background-color: transparent;
   border: none;
-  img:active {
-    opacity: 0.6;
+  &:active {
+    img {
+      opacity: 0.6;
+    }
+  }
+  &:focus {
+    outline: 0;
   }
 }
 </style>
