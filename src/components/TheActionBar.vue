@@ -6,6 +6,7 @@
     <ActionItem name="Single" />
     <ActionItem name="Double" />
     <ActionItem name="Triple" />
+    <ActionItem name="Home Run" />
     <ActionItem name="Out" />
     <ActionItem name="Error" />
     <ActionItem name="Foul" />
